@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ca04f1f7-916b-488e-854f-379d5c38bc6b" name="https://www.zzz.com.ua/ftp/index.php" url="http://127.0.0.1 ">
+        <fileTransfer host="127.0.0.1 " port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
